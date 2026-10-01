@@ -1,0 +1,24 @@
+﻿# Node
+node_modules/
+npm-debug.log*
+.env
+
+# Flutter
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/build/
+app/.packages
+app/pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads
+server/uploads/*
+!server/uploads/.gitkeep
